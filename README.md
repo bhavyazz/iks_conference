@@ -6,7 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Conference](https://img.shields.io/badge/Target-NMKRV%202026-orange.svg)]()
 
-**Target Conference:** International Conference on Indian Knowledge Systems and Sustainable Development Goals (NMKRV, 2026)
 
 ---
 
