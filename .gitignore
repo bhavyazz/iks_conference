@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -21,6 +21,7 @@ env/
 # Large raw results (per-seed CSVs, consolidated raw CSV)
 results/raw/
 results/all_experiments_raw.csv
+results/results_seed*.csv
 
 # IDE & editors
 .vscode/
